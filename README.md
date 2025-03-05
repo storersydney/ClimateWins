@@ -1,6 +1,11 @@
 # ClimateWins
 ## Objective
-Use machine learning to help predict the consequences of climate change.
+* Use machine learning to help predict the consequences of climate change.
+* Identify weather patterns outside the regional norm in Europe.
+* Determine if unusual weather patterns are increasing.
+* Generate possibilities for future weather conditions over the next 25 to 50 years based on current trends.
+* Determine the safest places for people to live in Europe over the next 25 to 50 years.
+
 ## Key Questions
 * How is machine learning used? Is it applicable to weather data?
 * Historically, what have the maximums and minimums in temperature been?
@@ -13,7 +18,7 @@ This data set is based on weather observations from 18 different weather station
 * Since the data goes all the way back to the 1800s, this large of a temporal sample could skew machine learning algorithms that should possibly be focusing more on recent data.
 * Ethical concerns: Climate change is a polarizing topic, so it is important to be impartial when analyzing the data.
 ## Technology Used
-Python - Jupyter Notebook, K Nearest Neighbors, Decision Tree, Artificial Neural Network
+Python - Jupyter Notebook, K Nearest Neighbors, Decision Tree, Artificial Neural Network, Hierarchical Clustering, CNNs and RNNs, Random Forest
 
 
   
